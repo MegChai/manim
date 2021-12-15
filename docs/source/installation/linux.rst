@@ -21,7 +21,7 @@ Then, installing Manim is just a matter of running:
 
    In light of the current efforts of migrating to rendering via OpenGL,
    this list might be incomplete. Please `let us know
-   <https://github.com/ManimCommunity/manim/issues/new/choose>` if you
+   <https://github.com/ManimCommunity/manim/issues/new/choose>`__ if you
    ran into missing dependencies while installing.
 
 In any case, we have also compiled instructions for several common
